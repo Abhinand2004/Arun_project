@@ -2,10 +2,10 @@ import React from "react";
 import "./App.css";
 import Nav from "./components/nav";
 import Hero from "./components/Hero";
-import About from "./components/About";
+import About from "./components/about";
 import Services from "./components/Services";
-import More from "./components/More";
-import Footer from "./components/Footer";
+import More from "./components/more";
+import Footer from "./components/footer";
 
 function App() {
   return (
