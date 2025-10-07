@@ -1,0 +1,24 @@
+.about {
+  text-align: center;
+  max-width: 800px;
+  margin: auto;
+}
+
+.about h2 {
+  font-size: 32px;
+  margin-bottom: 20px;
+  color: #0077b6;
+}
+
+.about p {
+  font-size: 18px;
+  line-height: 1.6;
+}
+.about {
+  text-align: center;
+  max-width: 800px;
+  margin: auto;
+  background: linear-gradient(135deg, #f9fbfd, #eef7ff);
+  padding: 60px 20px;
+  border-radius: 12px;
+}

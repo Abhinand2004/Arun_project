@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  font-family: "Segoe UI", sans-serif;
+  background: #f9fbfd;
+  color: #333;
+}
+
+.App {
+  width: 100%;
+  overflow-x: hidden;
+}
+
+section {
+  padding: 60px 20px;
+}

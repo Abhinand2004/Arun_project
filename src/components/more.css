@@ -1,0 +1,32 @@
+.more {
+  background: #e6f7ff;
+  text-align: center;
+  padding: 60px 20px;
+}
+
+.more h2 {
+  font-size: 32px;
+  margin-bottom: 25px;
+  color: #0077b6;
+}
+
+.more ul {
+  list-style: none;
+  padding: 0;
+  font-size: 18px;
+  line-height: 2;
+}
+.more {
+  background: linear-gradient(120deg, #0077b6, #00b4d8);
+  color: white;
+  text-align: center;
+  padding: 70px 20px;
+  border-radius: 12px;
+}
+
+.more ul {
+  list-style: none;
+  padding: 0;
+  font-size: 18px;
+  line-height: 2;
+}
