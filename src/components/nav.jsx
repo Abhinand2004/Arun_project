@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { Link } from "react-scroll";
-import "./Nav.css";
+import "./nav.css";
 
 function Nav() {
   const [open, setOpen] = useState(false);
